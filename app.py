@@ -16,10 +16,10 @@ df = pd.read_csv("customer_churn.csv")
 # ---------------- Load Models ----------------
 with open("model.pkl", "rb") as f:
     ml_model = pickle.load(f)
-'''
+
 with open("ann_model.pkl", "rb") as file:
     ann_model = pickle.load(file)
-'''
+
 
 # ---------------- Load Scaler ----------------
 scaler = None
