@@ -33,5 +33,6 @@ The dataset typically includes customer information such as:
 
 ## 📌 Steps to Run the Project
 
+https://customerchurnprediction-suneetpaul.streamlit.app/
 
 
