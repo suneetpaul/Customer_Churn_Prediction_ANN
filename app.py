@@ -21,7 +21,7 @@ ml_feature_names = ml_model.feature_names_in_
 # ---------------- Load ANN Model ----------------
 
 with open("ann_features.pkl", "rb") as f:
-    ann_feature_names = pickle.load(f)
+   ann_model = pickle.load(f)
 
 # ---------------- Load Scaler ----------------
 scaler = None
@@ -147,8 +147,8 @@ if submitted_ml:
 
 # ---------------- ANN Model Prediction ----------------
 if submitted_ann:
-    input_df = prepare_input_df(inputs, ann_feature_names, scaler)
-    prob = ann_feature_names.predict(input_df, verbose=0)[0][0]
+    input_df = prepare_input_df(inputs, ann_model, scaler)
+    prob = ann_model.predict(input_df, verbose=0)[0][0]
 
     st.subheader("🧠 ANN Model Prediction")
     if prob > 0.5:
