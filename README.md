@@ -12,7 +12,10 @@ https://customerchurnprediction-suneet.streamlit.app
 
 ## 📸 Application Preview
 
-![Customer Churn Prediction Dashboard](./assets/customer_churn_dashboard.png)
+<p align="center">
+  <img src="assets/customer_churn_dashboard.png" width="900" alt="Customer Churn Prediction Dashboard">
+</p>
+
 
 > *Interactive dashboard allowing users to input customer details and predict churn using ML and ANN models.*
 
