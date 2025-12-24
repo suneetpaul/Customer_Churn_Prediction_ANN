@@ -110,7 +110,7 @@ Customer churn directly impacts business revenue and customer lifetime value. Th
 
 **Suneet Paul**  
 - 🔗 GitHub: https://github.com/suneetpaul  
-- 💼 LinkedIn: https://www.linkedin.com/in/suneet-paul/
+- 💼 LinkedIn: [https://www.linkedin.com/in/suneet-paul/](https://www.linkedin.com/in/suneet-paul-singh/)
 
 If you find this project useful, don’t forget to ⭐ the repository!
 
