@@ -13,7 +13,7 @@ https://customerchurnprediction-suneet.streamlit.app
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="assets/customer_churn_dashboard.png" width="900" alt="Customer Churn Prediction Dashboard">
+  <img src="assets/Screenshot 2025-12-25 010311.png" width="900" alt="Customer Churn Prediction Dashboard">
 </p>
 
 
